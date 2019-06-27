@@ -14,4 +14,4 @@ end
 ship = Spaceship.new
 ship.batten_hatches
 
-# Avast is disaplyed as the 2nd definiton for Spaceship overwrites the 1at definiton.
+# Avast is displayed as the 2nd definiton for Spaceship overwrites the 1at definiton.
