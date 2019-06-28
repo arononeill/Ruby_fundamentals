@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c78dd6ba-4bc9-47b2-8562-3d3ff9cd242f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Loops_and_conditions/iterators_and_blocks.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_and_conditions/loops.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_and_conditions/while_loop.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops_and_conditions/loop_control.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Loops_and_conditions/while_loop.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+            <state relative-caret-position="204">
+              <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Loops_and_conditions/loop_control.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -80,6 +87,7 @@
         <option value="$PROJECT_DIR$/loops.rb" />
         <option value="$PROJECT_DIR$/Loops_and_conditions/iterators_and_blocks.rb" />
         <option value="$PROJECT_DIR$/Loops_and_conditions/while_loop.rb" />
+        <option value="$PROJECT_DIR$/Loops_and_conditions/loop_control.rb" />
       </list>
     </option>
   </component>
@@ -246,12 +254,12 @@
       <updated>1561458418226</updated>
       <workItem from="1561458419326" duration="4272000" />
       <workItem from="1561544723759" duration="2200000" />
-      <workItem from="1561628729338" duration="8943000" />
+      <workItem from="1561628729338" duration="10771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15415000" />
+    <option name="totallyTimeSpent" value="17243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -479,8 +487,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Loops_and_conditions/while_loop.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        <state relative-caret-position="204">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops_and_conditions/loop_control.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
