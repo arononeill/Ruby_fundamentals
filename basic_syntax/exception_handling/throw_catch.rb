@@ -9,14 +9,14 @@ result = catch :abort do
       sample.store
     end
   end
-  "All smaples processed"
+  "All samples processed"
 end
 
-# If the throw isnt triggered then catch returns the last expression in it's block (eg, the string at the end, 'all
+# If the throw isn't triggered then catch returns the last expression in it's block (eg, the string at the end, 'all
 # samples processed' in this case)
 
 # If the throw is triggered, the corresponding catch block is terminated. If one of the samples fail to process then
-# it outputs the reason for its failure which was provided as the 2nd argument to throw. 
+# it outputs the reason for its failure which was provided as the 2nd argument to throw.
 
 # The argument of catch of the first argument of throw must match for it to work (eg, abort here but any object
 # could be used)

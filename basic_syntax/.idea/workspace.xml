@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c78dd6ba-4bc9-47b2-8562-3d3ff9cd242f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exception_handling/ensure_clause.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception_handling/exception_handling.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception_handling/raise_exceptions.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exception_handling/throw_catch.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception_handling/throw_catch.rb" beforeDir="false" afterPath="$PROJECT_DIR$/exception_handling/throw_catch.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,8 +87,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exception_handling/throw_catch.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-end-line="22" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -155,11 +151,6 @@
             <path>
               <item name="basic_syntax" type="b2602c69:ProjectViewProjectNode" />
               <item name="basic_syntax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic_syntax" type="b2602c69:ProjectViewProjectNode" />
-              <item name="basic_syntax" type="462c0819:PsiDirectoryNode" />
-              <item name="exception_handling" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,12 +291,12 @@
       <workItem from="1561458419326" duration="4272000" />
       <workItem from="1561544723759" duration="2200000" />
       <workItem from="1561628729338" duration="12583000" />
-      <workItem from="1562061764160" duration="2479000" />
+      <workItem from="1562061764160" duration="4223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21534000" />
+    <option name="totallyTimeSpent" value="23278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -548,8 +539,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exception_handling/throw_catch.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
