@@ -92,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/exception_handling/throw_catch.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="88" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
+              <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
             </state>
           </provider>
         </entry>
@@ -300,12 +300,12 @@
       <workItem from="1561458419326" duration="4272000" />
       <workItem from="1561544723759" duration="2200000" />
       <workItem from="1561628729338" duration="12583000" />
-      <workItem from="1562061764160" duration="2398000" />
+      <workItem from="1562061764160" duration="2479000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21453000" />
+    <option name="totallyTimeSpent" value="21534000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -549,7 +549,7 @@
     <entry file="file://$PROJECT_DIR$/exception_handling/throw_catch.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="88" selection-start-line="18" selection-start-column="88" selection-end-line="18" selection-end-column="88" />
+          <caret line="18" column="89" selection-start-line="18" selection-start-column="89" selection-end-line="18" selection-end-column="89" />
         </state>
       </provider>
     </entry>
