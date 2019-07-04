@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c78dd6ba-4bc9-47b2-8562-3d3ff9cd242f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks_constucts_modules/blocks.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks_constucts_modules/block_local_vars.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks_constucts_modules/getTime_using_blocks.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +68,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/blocks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/block_local_vars.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/getTime_using_blocks.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -123,6 +142,8 @@
         <option value="$PROJECT_DIR$/methods/alias_method.rb" />
         <option value="$PROJECT_DIR$/methods/method_calls_as_messages.rb" />
         <option value="$PROJECT_DIR$/blocks_constucts_modules/blocks.rb" />
+        <option value="$PROJECT_DIR$/blocks_constucts_modules/block_local_vars.rb" />
+        <option value="$PROJECT_DIR$/blocks_constucts_modules/getTime_using_blocks.rb" />
       </list>
     </option>
   </component>
@@ -190,7 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.method_calls_as_messages">
+  <component name="RunManager" selected="Ruby.getTime_using_blocks">
     <configuration name="alias_method" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="basic_syntax" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -202,6 +223,34 @@
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/methods/alias_method.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="block_local_vars" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="basic_syntax" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/blocks_constucts_modules" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/blocks_constucts_modules/block_local_vars.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getTime_using_blocks" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="basic_syntax" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/blocks_constucts_modules" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/blocks_constucts_modules/getTime_using_blocks.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -233,48 +282,20 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="parrallel_assignment" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="basic_syntax" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/variables" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/variables/parrallel_assignment.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ranges" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="basic_syntax" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/variables" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/variables/ranges.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Ruby.ranges" />
-      <item itemvalue="Ruby.parrallel_assignment" />
       <item itemvalue="Ruby.keyword_arguments" />
       <item itemvalue="Ruby.alias_method" />
       <item itemvalue="Ruby.method_calls_as_messages" />
+      <item itemvalue="Ruby.block_local_vars" />
+      <item itemvalue="Ruby.getTime_using_blocks" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.getTime_using_blocks" />
+        <item itemvalue="Ruby.block_local_vars" />
         <item itemvalue="Ruby.method_calls_as_messages" />
         <item itemvalue="Ruby.alias_method" />
         <item itemvalue="Ruby.keyword_arguments" />
-        <item itemvalue="Ruby.parrallel_assignment" />
-        <item itemvalue="Ruby.ranges" />
       </list>
     </recent_temporary>
   </component>
@@ -293,23 +314,23 @@
       <workItem from="1561544723759" duration="2200000" />
       <workItem from="1561628729338" duration="12583000" />
       <workItem from="1562061764160" duration="6086000" />
-      <workItem from="1562146204647" duration="16274000" />
+      <workItem from="1562146204647" duration="19241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41415000" />
+    <option name="totallyTimeSpent" value="44382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25910932" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25910932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24511546" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24511546" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -362,7 +383,9 @@
     <SUITE FILE_PATH="coverage/Ruby_fundamentals@keyword_arguments.rcov" NAME="keyword_arguments Coverage Results" MODIFIED="1562235800987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/basic_syntax@class_instance_vars.rcov" NAME="class_instance_vars Coverage Results" MODIFIED="1561466983504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/Ruby_fundamentals@hashes.rcov" NAME="hashes Coverage Results" MODIFIED="1562231449197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables" MODULE_NAME="basic_syntax" />
+    <SUITE FILE_PATH="coverage/Ruby_fundamentals@getTime_using_blocks.rcov" NAME="getTime_using_blocks Coverage Results" MODIFIED="1562251068096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blocks_constucts_modules" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/basic_syntax@visibilty.rcov" NAME="visibilty Coverage Results" MODIFIED="1561467561866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basic_syntax" />
+    <SUITE FILE_PATH="coverage/Ruby_fundamentals@block_local_vars.rcov" NAME="block_local_vars Coverage Results" MODIFIED="1562249563261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/blocks_constucts_modules" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/Ruby_fundamentals@ranges.rcov" NAME="ranges Coverage Results" MODIFIED="1562231786422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variables" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/Ruby_fundamentals@alias_method.rcov" NAME="alias_method Coverage Results" MODIFIED="1562236707172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/basic_syntax@class_var.rcov" NAME="class_var Coverage Results" MODIFIED="1561466380632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basic_syntax" />
@@ -475,8 +498,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/blocks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="68" selection-start-line="1" selection-start-column="68" selection-end-line="1" selection-end-column="68" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/block_local_vars.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/getTime_using_blocks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>
