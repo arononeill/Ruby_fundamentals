@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c78dd6ba-4bc9-47b2-8562-3d3ff9cd242f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/testing_frameworks.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/basic_syntax.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/basic_syntax.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exception_handling/error_handling.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,91 +13,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/proc.rb">
+        <entry file="file://$PROJECT_DIR$/exception_handling/testing_frameworks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="55" selection-start-line="10" selection-start-column="55" selection-end-line="10" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/using_procs.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/passing_arguments_as_procs.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/modules.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/mixins_modules.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/mixins_modules_and_classes.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/instance_vars_in_modules.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testing_frameworks.rb">
+        <entry file="file://$PROJECT_DIR$/exception_handling/error_handling.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/mixins_class.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blocks_constucts_modules/lambdas.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            <state relative-caret-position="357">
+              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -112,7 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/inheritance.rb" />
         <option value="$PROJECT_DIR$/class_methods_and variables.rb" />
         <option value="$PROJECT_DIR$/class_var.rb" />
         <option value="$PROJECT_DIR$/class_instance_vars.rb" />
@@ -163,6 +88,7 @@
         <option value="$PROJECT_DIR$/blocks_constucts_modules/mixins_modules_and_classes.rb" />
         <option value="$PROJECT_DIR$/blocks_constucts_modules/instance_vars_in_modules.rb" />
         <option value="$PROJECT_DIR$/testing_frameworks.rb" />
+        <option value="$PROJECT_DIR$/exception_handling/error_handling.rb" />
       </list>
     </option>
   </component>
@@ -202,15 +128,15 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\I505111\Documents\GIT\Ruby_fundamentals\basic_syntax" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\I505111\Documents\GIT\Ruby_fundamentals\exception_handling" />
       <recent name="C:\Users\I505111\Documents\GIT\Ruby_fundamentals\basic_syntax\classes" />
       <recent name="C:\Users\I505111\Documents\GIT\Ruby_fundamentals\basic_syntax\variables" />
       <recent name="C:\Users\I505111\Documents\GIT\Ruby_fundamentals\basic_syntax\exception_handling" />
       <recent name="C:\Users\I505111\Documents\GIT\Ruby_fundamentals\basic_syntax\Loops_and_conditions" />
-      <recent name="C:\Users\I505111\Documents\GIT\Ruby_fundamentals\basic_syntax\Inheritance" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\I505111\Documents\GIT\Ruby_fundamentals\basic_syntax" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -225,18 +151,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.mixins_modules">
-    <configuration name="block_local_vars" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+  <component name="RunManager" selected="Ruby.error_handling">
+    <configuration name="error_handling" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="basic_syntax" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/blocks_constucts_modules" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/exception_handling" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/blocks_constucts_modules/block_local_vars.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/exception_handling/error_handling.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -297,19 +223,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Ruby.block_local_vars" />
       <item itemvalue="Ruby.getTime_using_blocks" />
       <item itemvalue="Ruby.proc" />
       <item itemvalue="Ruby.passing_arguments_as_procs" />
       <item itemvalue="Ruby.mixins_modules" />
+      <item itemvalue="Ruby.error_handling" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.error_handling" />
         <item itemvalue="Ruby.mixins_modules" />
         <item itemvalue="Ruby.passing_arguments_as_procs" />
         <item itemvalue="Ruby.proc" />
         <item itemvalue="Ruby.getTime_using_blocks" />
-        <item itemvalue="Ruby.block_local_vars" />
       </list>
     </recent_temporary>
   </component>
@@ -329,12 +255,21 @@
       <workItem from="1561628729338" duration="12583000" />
       <workItem from="1562061764160" duration="6086000" />
       <workItem from="1562146204647" duration="26656000" />
-      <workItem from="1562663046200" duration="2267000" />
+      <workItem from="1562663046200" duration="3790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54064000" />
+    <option name="totallyTimeSpent" value="55587000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -349,10 +284,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3285968" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3285968" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -390,6 +325,7 @@
     <SUITE FILE_PATH="coverage/basic_syntax@protected.rcov" NAME="overridding_classes Coverage Results" MODIFIED="1561628641387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/basic_syntax@visibility2.rcov" NAME="visibility2 Coverage Results" MODIFIED="1561468209705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/Ruby_fundamentals@enumerable_method.rcov" NAME="enumerable_method Coverage Results" MODIFIED="1562151096572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basic_syntax" />
+    <SUITE FILE_PATH="coverage/Ruby_fundamentals@error_handling.rcov" NAME="error_handling Coverage Results" MODIFIED="1562666394571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exception_handling" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/basic_syntax@equality.rcov" NAME="equality Coverage Results" MODIFIED="1561629237669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/Ruby_fundamentals@method_calls_as_messages.rcov" NAME="method_calls_as_messages Coverage Results" MODIFIED="1562243858375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/methods" MODULE_NAME="basic_syntax" />
     <SUITE FILE_PATH="coverage/basic_syntax@class_override.rcov" NAME="class_override Coverage Results" MODIFIED="1561628929152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basic_syntax" />
@@ -410,7 +346,6 @@
     <SUITE FILE_PATH="coverage/basic_syntax@monkey.rcov" NAME="monkey Coverage Results" MODIFIED="1561628830882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="basic_syntax" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/protected.rb" />
     <entry file="file://$PROJECT_DIR$/test.rb" />
     <entry file="file://$PROJECT_DIR$/syntax.rb" />
     <entry file="file://$PROJECT_DIR$/visibility2.rb" />
@@ -598,10 +533,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testing_frameworks.rb">
+    <entry file="file://$PROJECT_DIR$/exception_handling/testing_frameworks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception_handling/error_handling.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
         </state>
       </provider>
     </entry>
